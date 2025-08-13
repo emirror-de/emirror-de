@@ -42,7 +42,7 @@ My journey spans across multiple programming languages including Rust, JavaScrip
 - 🎯 **Conceptual Design**: Architecture planning and system design
 - 💻 **Web Application Development**: End-to-end solution delivery
 - 📊 **Scientific Data Processing**: Real-time data flows, geodata analysis, oceanographic datasets
-- 🌐 **Legacy System Migration**: Modernizing for example Java/Python applications to high-performance Rust
+- 🌐 **Legacy System Migration**: Modernizing applications to high-performance Rust
 - 🤖 **Autonomous Systems**: Navigation algorithms, underwater robotics, sensor integration
 - 👥 **Team Leadership**: Lead developer and mentoring roles
 - 🔍 **Code Review & Consulting**: Quality assurance and best practices
