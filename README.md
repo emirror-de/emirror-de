@@ -8,9 +8,11 @@
 
 ## 👋 About Me
 
-I'm a **senior software engineer** with over **15 years of IT experience**, passionate about creating robust, efficient, and maintainable software solutions. Since early 2020, I've specialized in **Rust programming**, developing high-quality open-source libraries and tools that prioritize performance, safety, and developer experience.
+I'm a **senior software engineer** with over **15 years of IT experience** and a **Master's degree in Navigation and Environmental Robotics**, passionate about creating robust, efficient, and maintainable software solutions. Since early 2020, I've specialized in **Rust programming**, developing high-quality open-source libraries and tools that prioritize performance, safety, and developer experience.
 
-My journey spans across multiple programming languages including HTML, CSS, PHP, JavaScript, C++, C#, and Python, giving me a comprehensive understanding of software development across different paradigms and ecosystems.
+My unique background combines **cutting-edge software engineering** with **scientific research experience** from polar expeditions to Antarctica, oceanographic data processing, and autonomous underwater vehicle navigation. This diverse expertise enables me to tackle complex technical challenges from multiple angles.
+
+My journey spans across multiple programming languages including Rust, JavaScript, Python, C++, C#, MATLAB, PHP, Java, and Delphi, giving me a comprehensive understanding of software development across different paradigms and ecosystems.
 
 ## 🚀 Core Expertise
 
@@ -20,18 +22,29 @@ My journey spans across multiple programming languages including HTML, CSS, PHP,
 - **Library Development**: Creating reusable, well-documented crates
 - **Authentication & Security**: JWT, role-based access control
 - **Performance Optimization**: Efficient algorithms and data structures
+- **WebAssembly**: High-performance client-side applications
+
+### **Scientific & Data Computing**
+- **Geodata Processing**: Cross-platform visualization and analysis applications
+- **Real-time Data Flows**: Automated processing of scientific measurement data
+- **Algorithm Development**: Navigation algorithms, underwater positioning systems
+- **Research Platforms**: Antarctic research stations, polar expeditions (5+ deployments)
 
 ### **Full-Stack Development**
-- **Frontend**: Modern JavaScript, HTML5, CSS3, responsive design
+- **Frontend**: Modern JavaScript, HTML5, CSS3, responsive design, WebAssembly
 - **Backend**: API design, microservices, database integration
-- **DevOps**: CI/CD pipelines, containerization, deployment strategies
+- **Databases**: SurrealDB, PostgreSQL, MySQL, SQLite3, MongoDB, Redis
+- **DevOps**: CI/CD pipelines, containerization, deployment strategies, Linux server management
 
 ### **Professional Services**
 - 🎯 **Conceptual Design**: Architecture planning and system design
 - 💻 **Web Application Development**: End-to-end solution delivery
-- 📊 **Data Processing & Visualization**: Complex data pipeline implementation
+- 📊 **Scientific Data Processing**: Real-time data flows, geodata analysis, oceanographic datasets
+- 🌐 **Legacy System Migration**: Modernizing for example Java/Python applications to high-performance Rust
+- 🤖 **Autonomous Systems**: Navigation algorithms, underwater robotics, sensor integration
 - 👥 **Team Leadership**: Lead developer and mentoring roles
 - 🔍 **Code Review & Consulting**: Quality assurance and best practices
+- 🏔️ **Extreme Environment Computing**: Reliable software for Antarctic research stations
 
 ## 🏆 Featured Open Source Projects
 
@@ -76,15 +89,23 @@ Database-agnostic connection layer implementing common CRUD operations. Switch b
 
 ### **For Businesses**
 - **Legacy System Modernization**: Migrate existing applications to modern, performant Rust solutions
-- **Performance Optimization**: Identify bottlenecks and implement high-performance alternatives
+- **Scientific Computing Solutions**: Real-time data processing, geodata visualization, algorithm implementation
+- **Performance Optimization**: Identify bottlenecks and implement high-performance alternatives (proven track record with [opus.aq](https://opus.aq) migration)
 - **Security Audits**: Comprehensive code review and security assessment
+- **Cross-Platform Applications**: Native desktop applications for specialized business processes
 - **Team Training**: Rust adoption workshops and mentoring programs
 
+### **For Research & Scientific Organizations**
+- **Data Pipeline Architecture**: Real-time processing of scientific measurement data
+- **Visualization Platforms**: Interactive web-based data exploration tools
+- **Instrument Integration**: Software for specialized scientific equipment and sensors
+- **Field-Ready Systems**: Reliable software for extreme environments (Antarctica-tested)
+
 ### **For Development Teams**
-- **Technical Leadership**: Guide architecture decisions and development practices
+- **Technical Leadership**: Guide architecture decisions with 15+ years of diverse experience
 - **Code Quality**: Establish testing strategies, CI/CD pipelines, and documentation standards
 - **Rapid Integration**: Quick onboarding into existing projects with minimal disruption
-- **Knowledge Transfer**: Share expertise and best practices across the team
+- **Knowledge Transfer**: Share expertise spanning scientific computing to modern web development
 
 ## 📈 GitHub Stats
 
@@ -93,11 +114,12 @@ Database-agnostic connection layer implementing common CRUD operations. Switch b
 ## 🛠️ Technology Stack
 
 ```
-Languages:     Rust, JavaScript, TypeScript, Python, C++, C#, PHP
-Web Frameworks: Axum, Rocket.rs, Actix-web, Node.js
-Databases:     PostgreSQL, MySQL, SQLite, MongoDB, Redis
-Tools:         Docker, Git, CI/CD, Linux, AWS
-Specialties:   System Programming, Web APIs, Authentication, Performance Optimization
+Languages:     Rust, JavaScript, Python, C++, C#, MATLAB, PHP, Java, Delphi
+Web Frameworks: Axum, Rocket.rs, Actix-web, Symfony, Python Dash, Node.js
+Databases:     SurrealDB, PostgreSQL, MySQL, SQLite3, MongoDB, Redis
+Tools:         Docker, Git, CI/CD, Linux, Nginx, Apache2, Systemd, WebAssembly
+Scientific:    Geodata Processing, Oceanographic Systems, Autonomous Navigation
+Specialties:   System Programming, Scientific Computing, Real-time Data Processing
 ```
 
 ## 🌟 Why Choose Rust?
@@ -115,9 +137,11 @@ As a **Rust specialist**, I leverage the language's unique advantages:
 I'm always interested in challenging projects and meaningful collaborations. Whether you need:
 
 - 🏗️ **Greenfield Development**: Building new applications from scratch
-- 🔄 **Legacy Migration**: Modernizing existing systems
+- 🔄 **Legacy Migration**: Modernizing existing systems (Java/Python to Rust expertise)
 - 🚀 **Performance Critical Systems**: High-throughput, low-latency applications
-- 👥 **Team Augmentation**: Experienced developer to strengthen your team
+- 🔬 **Scientific Computing**: Real-time data processing, geodata analysis, research platforms
+- 👥 **Team Augmentation**: Senior engineer with diverse domain expertise
+- ❄️ **Mission-Critical Systems**: Proven reliability in extreme environments
 
 **Ready to discuss your next project?**
 
