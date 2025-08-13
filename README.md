@@ -1,8 +1,8 @@
 # Lewin Probst, M.Sc. 🦀
 
-> **Senior Software Engineer** | **Rust Specialist** | **Open Source Contributor**
-
 *"Quality over quantity - Building robust software that stands the test of time."*
+
+> **Senior Software Engineer** | **Rust Specialist** | **Open Source Contributor**
 
 [![Website](https://img.shields.io/badge/Website-emirror.de-blue?style=for-the-badge)](https://emirror.de)
 [![GitHub](https://img.shields.io/badge/GitHub-emirror--de-181717?style=for-the-badge&logo=github)](https://github.com/emirror-de)
