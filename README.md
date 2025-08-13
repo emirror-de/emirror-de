@@ -2,6 +2,8 @@
 
 > **Senior Software Engineer** | **Rust Specialist** | **Open Source Contributor**
 
+*"Quality over quantity - Building robust software that stands the test of time."*
+
 [![Website](https://img.shields.io/badge/Website-emirror.de-blue?style=for-the-badge)](https://emirror.de)
 [![GitHub](https://img.shields.io/badge/GitHub-emirror--de-181717?style=for-the-badge&logo=github)](https://github.com/emirror-de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lewin%20Probst-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lewin-probst-a44b30a5/)
@@ -158,7 +160,3 @@ If you find my open-source projects helpful, consider supporting my work:
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/emirror-de)
 
 Your support helps me dedicate more time to creating and maintaining high-quality open-source software for the Rust community.
-
----
-
-*"Quality over quantity - Building robust software that stands the test of time."*
