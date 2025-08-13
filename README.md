@@ -19,7 +19,7 @@ My journey spans across multiple programming languages including Rust, JavaScrip
 ## 🚀 Core Expertise
 
 ### **Rust Ecosystem**
-- **Web Development**: Axum, Rocket.rs, Actix-web
+- **Web Development**: Axum, Rocket.rs, Leptos
 - **System Programming**: Low-level optimization, memory safety
 - **Library Development**: Creating reusable, well-documented crates
 - **Authentication & Security**: JWT, role-based access control
