@@ -50,17 +50,6 @@ My journey spans across multiple programming languages including Rust, JavaScrip
 
 ## 🏆 Featured Open Source Projects
 
-### [🌐 lewp-rs](https://github.com/emirror-de/lewp-rs) ![Stars](https://img.shields.io/github/stars/emirror-de/lewp-rs?style=flat-square)
-*Modern HTML5 Website Generator*
-
-Generate technically optimized and always valid HTML5 websites without sacrificing algorithmic comfort and flexibility. Features include automatic optimization, responsive design support, and comprehensive validation.
-
-**Key Features:**
-- ⚡ High-performance HTML generation
-- 🎨 CSS optimization and minification
-- 📱 Responsive design automation
-- ✅ HTML5 validation guaranteed
-
 ### [🔐 axum-gate](https://github.com/emirror-de/axum-gate) ![Stars](https://img.shields.io/github/stars/emirror-de/axum-gate?style=flat-square)
 *Enterprise-Grade Authentication for Axum*
 
@@ -72,15 +61,26 @@ Fully customizable role-based JWT cookie authentication system designed for both
 - 🔄 Distributed system support
 - 🎛️ Highly configurable middleware
 
-### [🚀 cosmodrome](https://github.com/emirror-de/cosmodrome) ![Stars](https://img.shields.io/github/stars/emirror-de/cosmodrome?style=flat-square)
-*Authentication & Authorization for Rocket.rs*
+### [🌐 lewp-rs](https://github.com/emirror-de/lewp-rs) ![Stars](https://img.shields.io/github/stars/emirror-de/lewp-rs?style=flat-square)
+*Modern HTML5 Website Generator*
 
-Comprehensive authentication and authorization library for Rocket.rs applications, providing secure and flexible user management capabilities.
+Generate technically optimized and always valid HTML5 websites without sacrificing algorithmic comfort and flexibility. Features include automatic optimization, responsive design support, and comprehensive validation.
+
+**Key Features:**
+- ⚡ High-performance HTML generation
+- 🎨 CSS optimization and minification
+- 📱 Responsive design automation
+- ✅ HTML5 validation guaranteed
 
 ### [🖼️ html5-picture](https://github.com/emirror-de/html5-picture) ![Stars](https://img.shields.io/github/stars/emirror-de/html5-picture?style=flat-square)
 *Intelligent Image Optimization*
 
 Batch image optimization tool that converts images to modern WebP format and generates HTML5 picture tags for optimal performance and compatibility.
+
+### [🚀 cosmodrome](https://github.com/emirror-de/cosmodrome) ![Stars](https://img.shields.io/github/stars/emirror-de/cosmodrome?style=flat-square)
+*Authentication & Authorization for Rocket.rs*
+
+Comprehensive authentication and authorization library for Rocket.rs applications, providing secure and flexible user management capabilities.
 
 ### [💾 naphtha](https://github.com/emirror-de/naphtha) ![Stars](https://img.shields.io/github/stars/emirror-de/naphtha?style=flat-square)
 *Universal Database Connection Layer*
