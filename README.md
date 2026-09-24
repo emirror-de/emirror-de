@@ -38,6 +38,8 @@ Small process orchestration for host/child IPC workflows in Rust.
 It helps start child processes, establish bootstrap handshakes, exchange raw IPC messages, and shut children down gracefully through a shared control protocol.
 
 ### [🔐 axum-gate](https://github.com/emirror-de/axum-gate) ![Stars](https://img.shields.io/github/stars/emirror-de/axum-gate?style=flat-square)
+*Predecessor to **webgates***
+
 Role-based JWT cookie authentication for Axum applications.
 
 Built for teams that need secure, configurable authentication across single-node and distributed deployments.
