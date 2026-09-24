@@ -28,7 +28,7 @@ I build high-performance, maintainable software for web, data, and research envi
 ## Selected Open Source Projects
 
 ### [🧱 webgates](https://github.com/emirror-de/webgates) ![Stars](https://img.shields.io/github/stars/emirror-de/webgates?style=flat-square)
-A Rust workspace for authentication, authorization, session-backed login flows, and transport adapters.
+A Rust workspace for authentication, authorization, session-backed login flows, custom Role-Based-Access-Control and transport adapters.
 
 It provides focused crates for domain primitives, JWT codecs, secrets, sessions, repositories, and Axum or tonic integration.
 
@@ -42,17 +42,18 @@ Role-based JWT cookie authentication for Axum applications.
 
 Built for teams that need secure, configurable authentication across single-node and distributed deployments.
 
-**Highlights:** RBAC, secure cookie auth, distributed support, configurable middleware
-
-### [🌐 lewp-rs](https://github.com/emirror-de/lewp-rs) ![Stars](https://img.shields.io/github/stars/emirror-de/lewp-rs?style=flat-square)
-Modern HTML5 website generation with a focus on valid output, optimization, and flexibility.
-
-Useful when you want technically clean static output without giving up expressive generation logic.
-
 ### [🖼️ html5-picture](https://github.com/emirror-de/html5-picture) ![Stars](https://img.shields.io/github/stars/emirror-de/html5-picture?style=flat-square)
 Image optimization for modern web delivery.
 
 Converts assets to WebP and generates HTML5 `picture` markup for better performance and compatibility.
+
+
+### [🌐 lewp-rs](https://github.com/emirror-de/lewp-rs) ![Stars](https://img.shields.io/github/stars/emirror-de/lewp-rs?style=flat-square)
+*Unmaintained*
+
+Modern HTML5 website generation with a focus on valid output, optimization, and flexibility.
+
+Useful when you want technically clean static output without giving up expressive generation logic.
 
 ## Background
 
